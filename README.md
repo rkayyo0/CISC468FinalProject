@@ -5,6 +5,8 @@ We are submitting 4 files of code. 2 versions of the JavaPeer and 2 versions of 
 JavaPeer.java and python_peer.py have the discovery and registration fullt implemented, with a command line interface that allows for unsecure file transfer.
 python_sts.py and JavaSTS.java have the station to station protocol implemented but not fully cohesive. 
 
+ports are different in JavaPeer and python_peer due to testing on the same device. 
+
 Breakdown of the code in each file will be provided in the report. 
 
 To operate JavaPeer,java and python_peer.py, 
